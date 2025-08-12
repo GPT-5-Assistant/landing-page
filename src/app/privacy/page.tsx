@@ -69,9 +69,10 @@ export default function PrivacyPolicy() {
             <p className="text-lg mb-6">
               This privacy policy applies to the{" "}
               <strong>GPT-5 Assistant</strong> app (hereby referred to as
-              &quot;Application&quot;) for mobile devices that was created by Igor
-              Czupryniak (hereby referred to as &quot;Service Provider&quot;) as an Ad
-              Supported service. This service is intended for use &quot;AS IS&quot;.
+              &quot;Application&quot;) for mobile devices that was created by
+              Igor Czupryniak (hereby referred to as &quot;Service
+              Provider&quot;) as an Ad Supported service. This service is
+              intended for use &quot;AS IS&quot;.
             </p>
 
             <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">
@@ -82,7 +83,9 @@ export default function PrivacyPolicy() {
               This information may include information such as:
             </p>
             <ul className="list-disc ml-6 mb-6 space-y-2">
-              <li>Your device&apos;s Internet Protocol address (e.g. IP address)</li>
+              <li>
+                Your device&apos;s Internet Protocol address (e.g. IP address)
+              </li>
               <li>
                 The pages of the Application that you visit, the time and date
                 of your visit, the time spent on those pages

@@ -69,9 +69,9 @@ export default function TermsAndConditions() {
             <p className="text-lg mb-6">
               These terms and conditions apply to the{" "}
               <strong>GPT-5 Assistant</strong> app (hereby referred to as
-              &quot;Application&quot;) for mobile devices that was created by Igor
-              Czupryniak (hereby referred to as &quot;Service Provider&quot;) as an Ad
-              Supported service.
+              &quot;Application&quot;) for mobile devices that was created by
+              Igor Czupryniak (hereby referred to as &quot;Service
+              Provider&quot;) as an Ad Supported service.
             </p>
 
             <p className="mb-6">
@@ -106,8 +106,8 @@ export default function TermsAndConditions() {
               removing software restrictions and limitations imposed by the
               official operating system of your device. Such actions could
               expose your phone to malware, viruses, malicious programs,
-              compromise your phone&apos;s security features, and may result in the
-              Application not functioning correctly or at all.
+              compromise your phone&apos;s security features, and may result in
+              the Application not functioning correctly or at all.
             </p>
 
             <p className="mb-4">
@@ -151,8 +151,8 @@ export default function TermsAndConditions() {
 
             <p className="mb-6">
               If you are using the application outside of a Wi-Fi area, please
-              be aware that your mobile network provider&apos;s agreement terms still
-              apply. Consequently, you may incur charges from your mobile
+              be aware that your mobile network provider&apos;s agreement terms
+              still apply. Consequently, you may incur charges from your mobile
               provider for data usage during the connection to the application,
               or other third-party charges. By using the application, you accept
               responsibility for any such charges, including roaming data
@@ -172,14 +172,14 @@ export default function TermsAndConditions() {
             </p>
 
             <p className="mb-6">
-              In terms of the Service Provider&apos;s responsibility for your use of
-              the application, it is important to note that while they strive to
-              ensure that it is updated and accurate at all times, they do rely
-              on third parties to provide information to them so that they can
-              make it available to you. The Service Provider accepts no
-              liability for any loss, direct or indirect, that you experience as
-              a result of relying entirely on this functionality of the
-              application.
+              In terms of the Service Provider&apos;s responsibility for your
+              use of the application, it is important to note that while they
+              strive to ensure that it is updated and accurate at all times,
+              they do rely on third parties to provide information to them so
+              that they can make it available to you. The Service Provider
+              accepts no liability for any loss, direct or indirect, that you
+              experience as a result of relying entirely on this functionality
+              of the application.
             </p>
 
             <p className="mb-6">
