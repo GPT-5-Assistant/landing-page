@@ -7,9 +7,9 @@ import {
   BoltIcon,
   GlobeAltIcon,
   CheckCircleIcon,
-  ArrowRightIcon,
 } from "@heroicons/react/24/outline";
 import Link from "next/link";
+import Image from "next/image";
 
 export default function Home() {
   return (
@@ -131,9 +131,11 @@ export default function Home() {
                 rel="noopener noreferrer"
                 className="transition-all transform hover:scale-105"
               >
-                <img
+                <Image
                   src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
                   alt="Get it on Google Play"
+                  width={206}
+                  height={60}
                   className="h-23 w-auto"
                 />
               </a>
@@ -280,9 +282,11 @@ export default function Home() {
               rel="noopener noreferrer"
               className="inline-block transition-all transform hover:scale-105"
             >
-              <img
+              <Image
                 src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
                 alt="Get it on Google Play"
+                width={245}
+                height={73}
                 className="h-30 w-auto"
               />
             </a>
