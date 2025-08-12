@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Optimize for search engines
+Sitemap: https://askgpt5.app/sitemap.xml
+
+# Block unnecessary paths
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
