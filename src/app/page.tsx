@@ -66,8 +66,14 @@ export default function Home() {
               About
             </Link>
             <button
+              onClick={() =>
+                window.location.replace(
+                  "https://play.google.com/store/apps/details?id=com.nohet.gpt5assistant"
+                )
+              }
               className="text-white px-6 py-3 rounded-xl font-semibold transition-all transform hover:scale-105 shadow-lg hover:opacity-90"
               style={{
+                cursor: "pointer",
                 background: "linear-gradient(to right, #893BD0, #8B5CF6)",
               }}
             >
@@ -126,7 +132,7 @@ export default function Home() {
               className="mt-12 flex flex-col sm:flex-row gap-4 justify-center items-center"
             >
               <a
-                href="https://play.google.com/store/apps/details?id=com.askgpt5.app"
+                href="https://play.google.com/store/apps/details?id=com.nohet.gpt5assistant"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="transition-all transform hover:scale-105"
@@ -277,7 +283,7 @@ export default function Home() {
               conversations with the most advanced AI model available.
             </p>
             <a
-              href="https://play.google.com/store/apps/details?id=com.askgpt5.app"
+              href="https://play.google.com/store/apps/details?id=com.nohet.gpt5assistant"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block transition-all transform hover:scale-105"
