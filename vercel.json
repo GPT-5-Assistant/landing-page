@@ -10,7 +10,7 @@
   },
   "headers": [
     {
-      "source": "/favicon.ico",
+      "source": "/favicon.webp",
       "headers": [
         {
           "key": "Cache-Control",
