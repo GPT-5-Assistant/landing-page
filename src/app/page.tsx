@@ -44,7 +44,7 @@ export default function Home() {
                 WebkitTextFillColor: "transparent",
               }}
             >
-              GPT-5 Assistant
+              GT-5 Assistant
             </span>
           </motion.div>
 
@@ -68,7 +68,7 @@ export default function Home() {
             <button
               onClick={() =>
                 window.location.replace(
-                  "https://play.google.com/store/apps/details?id=com.nohet.gpt5assistant"
+                  "https://play.google.com/store/apps/details?id=com.nohet.gt5assistant"
                 )
               }
               className="text-white px-6 py-3 rounded-xl font-semibold transition-all transform hover:scale-105 shadow-lg hover:opacity-90"
@@ -110,7 +110,7 @@ export default function Home() {
               <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-700 mt-4">
                 Powered by{" "}
                 <span className="bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
-                  GPT-5
+                  leading AI models
                 </span>
               </h2>
             </motion.div>
@@ -122,7 +122,9 @@ export default function Home() {
               className="mt-8 text-xl sm:text-2xl text-gray-600 max-w-3xl mx-auto leading-relaxed"
             >
               Experience the future of AI conversation with unlimited access to
-              GPT-5. No limits, no subscriptions, completely free forever.
+              GT-5 plus leading models like Grok, DeepSeek, Gemini, GLM, Kimi,
+              GPT, Qwen, and Claude. No limits, no subscriptions, completely
+              free forever.
             </motion.p>
 
             <motion.div
@@ -132,7 +134,7 @@ export default function Home() {
               className="mt-12 flex flex-col sm:flex-row gap-4 justify-center items-center"
             >
               <a
-                href="https://play.google.com/store/apps/details?id=com.nohet.gpt5assistant"
+                href="https://play.google.com/store/apps/details?id=com.nohet.gt5assistant"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="transition-all transform hover:scale-105"
@@ -187,7 +189,7 @@ export default function Home() {
             className="text-center mb-16"
           >
             <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4">
-              Why Choose GPT-5 Assistant?
+              Why Choose GT-5 Assistant?
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
               Experience the most advanced AI conversation platform with
@@ -199,9 +201,9 @@ export default function Home() {
             {[
               {
                 icon: SparklesIcon,
-                title: "GPT-5 Powered",
+                title: "Leading AI Models",
                 description:
-                  "Access to the latest and most advanced AI model with superior reasoning and knowledge capabilities.",
+                  "Access Grok, DeepSeek, Gemini, GLM, Kimi, GPT, Qwen, Claude, and more for superior reasoning and knowledge.",
               },
               {
                 icon: BoltIcon,
@@ -273,7 +275,7 @@ export default function Home() {
             transition={{ duration: 0.6 }}
           >
             <h2 className="text-4xl sm:text-5xl font-bold text-white mb-6">
-              Ready to Experience GPT-5?
+              Ready to Experience GT-5?
             </h2>
             <p
               className="text-xl mb-8 max-w-2xl mx-auto"
@@ -283,7 +285,7 @@ export default function Home() {
               conversations with the most advanced AI model available.
             </p>
             <a
-              href="https://play.google.com/store/apps/details?id=com.nohet.gpt5assistant"
+              href="https://play.google.com/store/apps/details?id=com.nohet.gt5assistant"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block transition-all transform hover:scale-105"
@@ -314,7 +316,7 @@ export default function Home() {
                 <ChatBubbleLeftRightIcon className="h-6 w-6 text-white" />
               </div>
               <span className="text-xl font-bold text-white">
-                GPT-5 Assistant
+                GT-5 Assistant
               </span>
             </div>
             <div className="flex flex-col md:flex-row items-center space-y-2 md:space-y-0 md:space-x-6">
@@ -334,7 +336,7 @@ export default function Home() {
               </div>
               <div className="text-gray-400">
                 <p>
-                  &copy; 2025 GPT-5 Assistant. Unlimited AI conversations,
+                  &copy; 2025 GT-5 Assistant. Unlimited AI conversations,
                   forever free.
                 </p>
               </div>

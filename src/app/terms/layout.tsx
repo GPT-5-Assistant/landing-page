@@ -1,9 +1,9 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Terms & Conditions | GPT-5 Assistant",
+  title: "Terms & Conditions | GT-5 Assistant",
   description:
-    "Terms and conditions for GPT-5 Assistant app. Read our terms of service and user agreement.",
+    "Terms and conditions for GT-5 Assistant app. Read our terms of service and user agreement.",
   robots: "index, follow",
 };
 

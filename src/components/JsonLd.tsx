@@ -4,10 +4,10 @@ export default function JsonLd() {
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "WebApplication",
-    name: "GPT-5 Assistant",
+    name: "GT-5 Assistant",
     applicationCategory: "CommunicationApplication",
     description:
-      "Unlimited free AI conversations powered by GPT-5. Experience the most advanced AI model without limits or subscriptions.",
+      "Unlimited free AI conversations powered by leading AI models like Grok, DeepSeek, Gemini, GLM, Kimi, GPT, Qwen, and Claude.",
     url: "https://askgpt5.app",
     logo: "https://askgpt5.app/logo.png",
     screenshot: "https://askgpt5.app/screenshot.png",
@@ -16,11 +16,11 @@ export default function JsonLd() {
       "@type": "Offer",
       price: "0",
       priceCurrency: "USD",
-      description: "Free unlimited access to GPT-5 conversations",
+      description: "Free unlimited access to GT-5 conversations",
     },
     features: [
       "Unlimited conversations",
-      "GPT-5 powered responses",
+      "Responses powered by Grok, DeepSeek, Gemini, GLM, Kimi, GPT, Qwen, and Claude",
       "No subscription required",
       "24/7 availability",
       "Lightning fast responses",
@@ -28,11 +28,11 @@ export default function JsonLd() {
     ],
     creator: {
       "@type": "Organization",
-      name: "GPT-5 Assistant Team",
+      name: "GT-5 Assistant Team",
     },
     publisher: {
       "@type": "Organization",
-      name: "GPT-5 Assistant",
+      name: "GT-5 Assistant",
     },
     potentialAction: {
       "@type": "UseAction",

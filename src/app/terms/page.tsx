@@ -39,7 +39,7 @@ export default function TermsAndConditions() {
                 WebkitTextFillColor: "transparent",
               }}
             >
-              GPT-5 Assistant
+              GT-5 Assistant
             </span>
           </Link>
 
@@ -68,7 +68,7 @@ export default function TermsAndConditions() {
           <div className="prose prose-lg max-w-none text-gray-700 leading-relaxed">
             <p className="text-lg mb-6">
               These terms and conditions apply to the{" "}
-              <strong>GPT-5 Assistant</strong> app (hereby referred to as
+              <strong>GT-5 Assistant</strong> app (hereby referred to as
               &quot;Application&quot;) for mobile devices that was created by
               Igor Czupryniak (hereby referred to as &quot;Service
               Provider&quot;) as an Ad Supported service.
@@ -262,12 +262,12 @@ export default function TermsAndConditions() {
                 <ChatBubbleLeftRightIcon className="h-6 w-6 text-white" />
               </div>
               <span className="text-xl font-bold text-white">
-                GPT-5 Assistant
+                GT-5 Assistant
               </span>
             </div>
             <div className="text-gray-400">
               <p>
-                &copy; 2025 GPT-5 Assistant. Unlimited AI conversations, forever
+                &copy; 2025 GT-5 Assistant. Unlimited AI conversations, forever
                 free.
               </p>
             </div>

@@ -15,27 +15,27 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://askgpt5.app"),
-  title: "GPT-5 Assistant | Unlimited Free AI Conversations",
+  title: "GT-5 Assistant | Unlimited Free AI Conversations",
   description:
-    "Experience unlimited free conversations with GPT-5, the most advanced AI model. No limits, no subscriptions, completely free forever.",
+    "Experience unlimited free conversations with GT-5, the most advanced AI model. No limits, no subscriptions, completely free forever.",
   keywords:
-    "GPT-5, AI chat, free AI, unlimited AI, artificial intelligence, chatbot, conversation AI, OpenAI, free GPT",
-  authors: [{ name: "GPT-5 Assistant Team" }],
-  creator: "GPT-5 Assistant",
-  publisher: "GPT-5 Assistant",
+    "GT-5, AI chat, free AI, unlimited AI, artificial intelligence, chatbot, conversation AI, OpenAI, free GPT",
+  authors: [{ name: "GT-5 Assistant Team" }],
+  creator: "GT-5 Assistant",
+  publisher: "GT-5 Assistant",
   robots: "index, follow",
   openGraph: {
-    title: "GPT-5 Assistant | Unlimited Free AI Conversations",
+    title: "GT-5 Assistant | Unlimited Free AI Conversations",
     description:
-      "Experience unlimited free conversations with GPT-5, the most advanced AI model. No limits, no subscriptions, completely free forever.",
+      "Experience unlimited free conversations with GT-5, the most advanced AI model. No limits, no subscriptions, completely free forever.",
     url: "https://askgpt5.app",
-    siteName: "GPT-5 Assistant",
+    siteName: "GT-5 Assistant",
     images: [
       {
         url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Ask GPT-5 - Unlimited Free AI Conversations",
+        alt: "Ask GT-5 - Unlimited Free AI Conversations",
       },
     ],
     locale: "en_US",
@@ -43,9 +43,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "GPT-5 Assistant | Unlimited Free AI Conversations",
+    title: "GT-5 Assistant | Unlimited Free AI Conversations",
     description:
-      "Experience unlimited free conversations with GPT-5, the most advanced AI model. No limits, no subscriptions, completely free forever.",
+      "Experience unlimited free conversations with GT-5, the most advanced AI model. No limits, no subscriptions, completely free forever.",
     images: ["/og-image.png"],
     creator: "@gpt5assistant",
   },
